@@ -6,7 +6,7 @@
         {
             "label": "echo",
             "type": "shell",
-            "command": "g++ entregableGuia1.c",
+            "command": "g++ entregableGuia1.c -g",
             "group": {
                 "kind": "build",
                 "isDefault": true
